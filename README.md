@@ -5,9 +5,9 @@
 text
 **bold text**
 
-...
+```
 code or command here
-...
+``` 
 
 - bullet point 1
 - bullet point 2
